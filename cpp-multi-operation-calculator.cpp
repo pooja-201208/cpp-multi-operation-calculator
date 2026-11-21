@@ -54,7 +54,7 @@ int main()
 	break;
 	
 	case 'p':
-	while(cin>>number&&number!=00)
+	while(cin>>number&&number!=-6769)
 	{
 		result=pow(result,number); //power
 	}
